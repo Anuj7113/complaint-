@@ -12,7 +12,7 @@ import {
 
 // Replace with your actual Google Sheets published CSV URL
 const GOOGLE_SHEET_CSV_URL =
-  "https://docs.google.com/spreadsheets/d/1X5bfEQYP7f0c_DYkAENTvIsx9RT-n7DRnRgZ0-dhtc4/export?format=csv";
+  "https://docs.google.com/spreadsheets/d/1JJTkkRTge4UGcAL3cUjliADULR_Cgj5Sc_S1j9Ou7S8/export?format=csv";
 
 const ISSUE_OPTIONS = [
   "Billing Issue",
